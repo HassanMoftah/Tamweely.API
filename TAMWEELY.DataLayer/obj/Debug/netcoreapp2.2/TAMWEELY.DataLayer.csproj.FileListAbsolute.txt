@@ -8,4 +8,3 @@ E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.DataLayer\obj\Debug\netcoreapp2.2\TAM
 E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.DataLayer\obj\Debug\netcoreapp2.2\TAMWEELY.DataLayer.AssemblyInfo.cs
 E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.DataLayer\obj\Debug\netcoreapp2.2\TAMWEELY.DataLayer.dll
 E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.DataLayer\obj\Debug\netcoreapp2.2\TAMWEELY.DataLayer.pdb
-E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.DataLayer\obj\Debug\netcoreapp2.2\TAMWEELY.DataLayer.csprojAssemblyReference.cache

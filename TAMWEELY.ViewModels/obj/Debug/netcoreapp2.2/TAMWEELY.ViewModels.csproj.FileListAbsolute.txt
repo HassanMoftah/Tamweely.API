@@ -6,4 +6,3 @@ E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.ViewModels\obj\Debug\netcoreapp2.2\TA
 E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.ViewModels\obj\Debug\netcoreapp2.2\TAMWEELY.ViewModels.AssemblyInfo.cs
 E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.ViewModels\obj\Debug\netcoreapp2.2\TAMWEELY.ViewModels.dll
 E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.ViewModels\obj\Debug\netcoreapp2.2\TAMWEELY.ViewModels.pdb
-E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.ViewModels\obj\Debug\netcoreapp2.2\TAMWEELY.ViewModels.csprojAssemblyReference.cache
