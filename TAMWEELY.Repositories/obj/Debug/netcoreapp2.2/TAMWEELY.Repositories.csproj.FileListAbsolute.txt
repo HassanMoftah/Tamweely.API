@@ -1,0 +1,12 @@
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.Repositories\bin\Debug\netcoreapp2.2\TAMWEELY.Repositories.deps.json
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.Repositories\bin\Debug\netcoreapp2.2\TAMWEELY.Repositories.dll
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.Repositories\bin\Debug\netcoreapp2.2\TAMWEELY.Repositories.pdb
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.Repositories\bin\Debug\netcoreapp2.2\TAMWEELY.DataLayer.dll
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.Repositories\bin\Debug\netcoreapp2.2\TAMWEELY.DataLayer.pdb
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.Repositories\obj\Debug\netcoreapp2.2\TAMWEELY.Repositories.csprojAssemblyReference.cache
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.Repositories\obj\Debug\netcoreapp2.2\TAMWEELY.Repositories.csproj.CoreCompileInputs.cache
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.Repositories\obj\Debug\netcoreapp2.2\TAMWEELY.Repositories.AssemblyInfoInputs.cache
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.Repositories\obj\Debug\netcoreapp2.2\TAMWEELY.Repositories.AssemblyInfo.cs
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.Repositories\obj\Debug\netcoreapp2.2\TAMWEELY.Repositories.csproj.CopyComplete
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.Repositories\obj\Debug\netcoreapp2.2\TAMWEELY.Repositories.dll
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.Repositories\obj\Debug\netcoreapp2.2\TAMWEELY.Repositories.pdb

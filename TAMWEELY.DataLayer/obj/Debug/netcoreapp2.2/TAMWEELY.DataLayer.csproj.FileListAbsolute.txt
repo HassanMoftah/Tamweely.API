@@ -1,0 +1,11 @@
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.DataLayer\bin\Debug\netcoreapp2.2\TAMWEELY.DataLayer.deps.json
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.DataLayer\bin\Debug\netcoreapp2.2\TAMWEELY.DataLayer.runtimeconfig.json
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.DataLayer\bin\Debug\netcoreapp2.2\TAMWEELY.DataLayer.runtimeconfig.dev.json
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.DataLayer\bin\Debug\netcoreapp2.2\TAMWEELY.DataLayer.dll
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.DataLayer\bin\Debug\netcoreapp2.2\TAMWEELY.DataLayer.pdb
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.DataLayer\obj\Debug\netcoreapp2.2\TAMWEELY.DataLayer.csproj.CoreCompileInputs.cache
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.DataLayer\obj\Debug\netcoreapp2.2\TAMWEELY.DataLayer.AssemblyInfoInputs.cache
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.DataLayer\obj\Debug\netcoreapp2.2\TAMWEELY.DataLayer.AssemblyInfo.cs
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.DataLayer\obj\Debug\netcoreapp2.2\TAMWEELY.DataLayer.dll
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.DataLayer\obj\Debug\netcoreapp2.2\TAMWEELY.DataLayer.pdb
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.DataLayer\obj\Debug\netcoreapp2.2\TAMWEELY.DataLayer.csprojAssemblyReference.cache

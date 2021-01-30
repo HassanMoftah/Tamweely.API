@@ -1,0 +1,9 @@
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.ViewModels\bin\Debug\netcoreapp2.2\TAMWEELY.ViewModels.deps.json
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.ViewModels\bin\Debug\netcoreapp2.2\TAMWEELY.ViewModels.dll
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.ViewModels\bin\Debug\netcoreapp2.2\TAMWEELY.ViewModels.pdb
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.ViewModels\obj\Debug\netcoreapp2.2\TAMWEELY.ViewModels.csproj.CoreCompileInputs.cache
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.ViewModels\obj\Debug\netcoreapp2.2\TAMWEELY.ViewModels.AssemblyInfoInputs.cache
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.ViewModels\obj\Debug\netcoreapp2.2\TAMWEELY.ViewModels.AssemblyInfo.cs
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.ViewModels\obj\Debug\netcoreapp2.2\TAMWEELY.ViewModels.dll
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.ViewModels\obj\Debug\netcoreapp2.2\TAMWEELY.ViewModels.pdb
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.ViewModels\obj\Debug\netcoreapp2.2\TAMWEELY.ViewModels.csprojAssemblyReference.cache
