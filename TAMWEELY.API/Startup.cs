@@ -79,14 +79,14 @@ namespace TAMWEELY.API
                 FileProvider = new PhysicalFileProvider(
                             Path.Combine(Directory.GetCurrentDirectory(), "EmployeeImages")),
                 RequestPath = "/EmployeeImages"
-            });*/
+            });
             //Enable directory browsing
            app.UseDirectoryBrowser(new DirectoryBrowserOptions
             {
                 FileProvider = new PhysicalFileProvider(
                             Path.Combine(Directory.GetCurrentDirectory(), "EmployeeImages")),
                 RequestPath = "/EmployeeImages"
-            });
+            });*/
             app.UseHttpsRedirection();
             app.UseCors(options => options.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
             app.UseAuthentication();
