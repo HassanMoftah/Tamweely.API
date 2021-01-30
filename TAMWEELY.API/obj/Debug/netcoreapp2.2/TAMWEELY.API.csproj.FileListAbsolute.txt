@@ -3,6 +3,12 @@ E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\bin\Debug\netcoreapp2.2\TAMWEELY.
 E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\bin\Debug\netcoreapp2.2\TAMWEELY.API.runtimeconfig.dev.json
 E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\bin\Debug\netcoreapp2.2\TAMWEELY.API.dll
 E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\bin\Debug\netcoreapp2.2\TAMWEELY.API.pdb
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\bin\Debug\netcoreapp2.2\TAMWEELY.DataLayer.dll
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\bin\Debug\netcoreapp2.2\TAMWEELY.Repositories.dll
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\bin\Debug\netcoreapp2.2\TAMWEELY.ViewModels.dll
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\bin\Debug\netcoreapp2.2\TAMWEELY.DataLayer.pdb
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\bin\Debug\netcoreapp2.2\TAMWEELY.Repositories.pdb
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\bin\Debug\netcoreapp2.2\TAMWEELY.ViewModels.pdb
 E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\obj\Debug\netcoreapp2.2\TAMWEELY.API.csprojAssemblyReference.cache
 E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\obj\Debug\netcoreapp2.2\TAMWEELY.API.csproj.CoreCompileInputs.cache
 E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\obj\Debug\netcoreapp2.2\TAMWEELY.API.RazorAssemblyInfo.cache
@@ -10,12 +16,6 @@ E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\obj\Debug\netcoreapp2.2\TAMWEELY.
 E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\obj\Debug\netcoreapp2.2\TAMWEELY.API.AssemblyInfoInputs.cache
 E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\obj\Debug\netcoreapp2.2\TAMWEELY.API.AssemblyInfo.cs
 E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\obj\Debug\netcoreapp2.2\TAMWEELY.API.RazorTargetAssemblyInfo.cache
+E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\obj\Debug\netcoreapp2.2\TAMWEELY.API.csproj.CopyComplete
 E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\obj\Debug\netcoreapp2.2\TAMWEELY.API.dll
 E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\obj\Debug\netcoreapp2.2\TAMWEELY.API.pdb
-E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\bin\Debug\netcoreapp2.2\TAMWEELY.DataLayer.dll
-E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\bin\Debug\netcoreapp2.2\TAMWEELY.Repositories.dll
-E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\bin\Debug\netcoreapp2.2\TAMWEELY.DataLayer.pdb
-E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\bin\Debug\netcoreapp2.2\TAMWEELY.Repositories.pdb
-E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\obj\Debug\netcoreapp2.2\TAMWEELY.API.csproj.CopyComplete
-E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\bin\Debug\netcoreapp2.2\TAMWEELY.ViewModels.dll
-E:\projects\TAMWEELY\TAMWEELY.API\TAMWEELY.API\bin\Debug\netcoreapp2.2\TAMWEELY.ViewModels.pdb

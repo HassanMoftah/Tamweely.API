@@ -74,7 +74,7 @@ namespace TAMWEELY.API
             }
             app.UseStaticFiles();// For the wwwroot folder
 
-            app.UseStaticFiles(new StaticFileOptions
+           /* app.UseStaticFiles(new StaticFileOptions
             {
                 FileProvider = new PhysicalFileProvider(
                             Path.Combine(Directory.GetCurrentDirectory(), "EmployeeImages")),
